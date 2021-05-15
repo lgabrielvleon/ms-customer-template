@@ -1,0 +1,19 @@
+{
+  "name": "ms-customer-template",
+  "version": "1.0.0",
+  "description": "Lambda Serverless Application with NodeJS 14.x and Express",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgabrielvleon/ms-customer-template.git"
+  },
+  "author": "Lucas Vásquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgabrielvleon/ms-customer-template/issues"
+  },
+  "homepage": "https://github.com/lgabrielvleon/ms-customer-template#readme"
+}
